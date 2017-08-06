@@ -93,50 +93,66 @@ Recomendo assinar o [Alura](https://www.alura.com.br) caso queira um bom custo-b
 
 ### Base / Frontend
 * Inglês
-  * Duolingo: https://www.duolingo.com/
+  * [Duolingo](https://www.duolingo.com/)
 * Lógica de Programação
-  * CV: http://www.cursoemvideo.com/course/curso-de-algoritmos/
+  * [Curso em Vídeo - Algoritmo](http://www.cursoemvideo.com/course/curso-de-algoritmos/)
 * HTML e CSS
-  * CV: http://www.cursoemvideo.com/course/curso-de-html5/
+  * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-html5/)
 * JavaScript  (Puro e com Jquery) Extra: JSON e AJAX
+  * [Construindo](#)
 * Bootstrap
+  * [Curso Bootstrap - Playlist](https://www.youtube.com/playlist?list=PLd4yfya-3PIomj2O-W0s9A-0i1ThWJncj)
 
 ### Linguagem Backend
 * PHP
-  * CV: http://www.cursoemvideo.com/course/curso-php-iniciante/
+  * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-php-iniciante/)
 * PHP Orientado a Objetos
-  * CV: http://www.cursoemvideo.com/course/curso-de-poo-php/
+  * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-poo-php/)
 ### Design Patters
-* Quanto mais melhor
+* * [Construindo](#)
 
 ### Framework
 * Laravel - PHP
+  * [Construindo](#)
 
 ### Bancos
 * MySQL
-  * CV: http://www.cursoemvideo.com/course/curso-banco-dados-mysql/
+  * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-banco-dados-mysql/)
 * Oracle e PostgreSQL (alternativos)
+  * [Construindo](#)
 
 ### Versionamento
 * Git e GitHub
+  * [Construindo](#)
 * SVN (alternativo)
+  * [Construindo](#)
 
 ### Testes
 * PHPUnit
+  * [Construindo](#)
 * Codeception
+  * [Construindo](#)
 
 ### Integração Contínua
 * Jenkins
+  * [Construindo](#)
 
 ### Metodologias de Desenvolvimento
 * SCRUM / Métodos ágeis
+  * [Construindo](#)
 
 ### Extras
 * Composer
+  * [Construindo](#)
 * NPM / Gulp
+  * [Construindo](#)
 * SASS
+  * [Construindo](#)
 * VueJS
+  * [Construindo](#)
 
 ### Extras 2, IDEs (ferramentas/editores para programar)
 * Atom / Sublime
+  * [Construindo](#)
 * Netbeans
+  * [Construindo](#)
