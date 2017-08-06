@@ -1,5 +1,6 @@
 # Monitoria voluntária FADERGS
-#### [Estudando alem: Links para estudo no final deste arquivo (Cursos gratuítos, livros, videos etc)](#alem)
+##### [Estudando alem: Links para estudo (Cursos gratuítos, livros, videos etc)](#materiais-para-estudo)
+##### [Entrando em contato com o monitor](#contato)
 
 ## Por que usar Git/GitHub?
 Ao iniciar o curso você não precisará usar versionamento (Git/SVN)  
@@ -72,7 +73,7 @@ Leia novamente a dica 1, tente simplificar e quebrar o enunciado em partes e dei
 Estou aí para ajudar.
 Boa sorte!
 
-# <span name="alem">Materiais para estudo</span>
+# Materiais para estudo
 # Indo além de nivelamento e aulas
 Se você quer ser programador e não apenas passar em algorítmos, não espere chegar a cadeira sobre os outros assuntos e sim  
 **estude por conta**.
