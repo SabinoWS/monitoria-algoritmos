@@ -42,13 +42,17 @@ Principalmente os quais você tiver dúvidas.
 *Estes arquivos são apenas exemplos básicos, a monitoria é feita em cima de dúvidas e dos exercícios passados pelos professores.*
 
 ### Primeira fase:
-Exemplos Portugol (Visualg) - (Em construção) 
+[Exemplos Portugol (Visualg)](https://github.com/SabinoWS/monitoria-algoritmos/tree/master/Primeira%20Fase%20-%20Portugol) 
 
 ### Segunda fase:
-Pasta: Exemplos C (Dev C++) - Construí no primeiro semestre para estudo próprio, darei uma incrementada com algumas dicas.
-Possui comentários com o equivalente do visualg para fazer a adaptação para o C.
+[Exemplos C (Dev C++)](https://github.com/SabinoWS/monitoria-algoritmos/tree/master/Segunda%20Fase%20-%20Linguagem%20C)
+*Possui comentários com o equivalente do visualg para fazer a adaptação para o C.*
 
 ## Materiais Externos
+* Lógica de Programação
+  * [Curso em Vídeo - Algoritmo](http://www.cursoemvideo.com/course/curso-de-algoritmos/)
+* Linguagem C
+  * [De Aluno para Aluno - Linguagem C](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW)
 
 ## Instruções para não reprovar:
 * Atenção nas aulas e nas aulas de reforço.
@@ -98,61 +102,65 @@ Recomendo assinar o [Alura](https://www.alura.com.br) caso queira um bom custo-b
   * [Curso em Vídeo - Algoritmo](http://www.cursoemvideo.com/course/curso-de-algoritmos/)
 * HTML e CSS
   * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-html5/)
-* JavaScript  (Puro e com Jquery) Extra: JSON e AJAX
-  * [Construindo](#)
 * Bootstrap
   * [Curso Bootstrap - Playlist](https://www.youtube.com/playlist?list=PLd4yfya-3PIomj2O-W0s9A-0i1ThWJncj)
+* JavaScript (Puro e com JQuery) Extra: JSON e AJAX
+  * [-]()
 
 ### Linguagem Backend
 * PHP
   * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-php-iniciante/)
 * PHP Orientado a Objetos
   * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-de-poo-php/)
+  
 ### Design Patters
-* * [Construindo](#)
+  * [-]()
 
-### Framework
+### Framework PHP
 * Laravel - PHP
-  * [Construindo](#)
+  * [RB Tech - Introdução e CRUD](http://dev.rbtech.info/laravel-iniciantes-introducao/)
+  * [Dev Marketer - How to Build a Blog From Scratch](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
+  * [Documentation](https://laravel.com/docs/5.4)
+  * [Laracasts](https://laracasts.com/)  
 
 ### Bancos
 * MySQL
   * [Curso em Vídeo](http://www.cursoemvideo.com/course/curso-banco-dados-mysql/)
 * Oracle e PostgreSQL (alternativos)
-  * [Construindo](#)
+  * [-]()
 
 ### Versionamento
 * Git e GitHub
-  * [Construindo](#)
+  * [Willian Justen - Git para Iniciantes](http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes/lectures/919122)
 * SVN (alternativo)
-  * [Construindo](#)
+  * [-]()
 
 ### Testes
 * PHPUnit
-  * [Construindo](#)
+  * [-]()
 * Codeception
-  * [Construindo](#)
+  * [-]()
 
 ### Integração Contínua
 * Jenkins
-  * [Construindo](#)
+  * [-]()
 
 ### Metodologias de Desenvolvimento
 * SCRUM / Métodos ágeis
-  * [Construindo](#)
+  * [-]()
 
 ### Extras
 * Composer
-  * [Construindo](#)
+  * [-]()
 * NPM / Gulp
-  * [Construindo](#)
+  * [-]()
 * SASS
-  * [Construindo](#)
+  * [-]()
 * VueJS
-  * [Construindo](#)
+  * [-]()
 
 ### Extras 2, IDEs (ferramentas/editores para programar)
 * Atom / Sublime
-  * [Construindo](#)
+  * [-]()
 * Netbeans
-  * [Construindo](#)
+  * [-]()
