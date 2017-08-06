@@ -1,8 +1,8 @@
 # Monitoria voluntária FADERGS
 1. [Entrando em contato com o monitor](#contato)
 2. [Materiais de nivelamento / monitoria](#materiais-de-nivelamento)
-3. [Materiais externos](#) 
-4. [Indo além - Virando um Programador](#)
+3. [Materiais externos](#materiais-externos) 
+4. [Indo além - Virando um Programador](#indo-além---virando-um-programador)
 
 ### Por que usar Git/GitHub?
 Ao iniciar o curso você não precisará usar versionamento (Git/SVN)  
@@ -46,6 +46,8 @@ Exemplos Portugol (Visualg) - (Em construção)
 ### Segunda fase:
 Pasta: Exemplos C (Dev C++) - Construí no primeiro semestre para estudo próprio, darei uma incrementada com algumas dicas.
 Possui comentários com o equivalente do visualg para fazer a adaptação para o C.
+
+## Materiais Externos
 
 ## Instruções para não reprovar:
 * Atenção nas aulas e nas aulas de reforço.
