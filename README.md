@@ -38,7 +38,8 @@ https://chat.whatsapp.com/15thyKkw6L52gBwvIDZXIaVer
 
 ## Materiais de Nivelamento:
 Baixe, abra, leia, analise, execute e altere da sua maneira cada programa encontrado nas pastas abaixo!
-Principalmente os quais você tiver dúvidas.
+Principalmente os quais você tiver dúvidas.  
+*Estes arquivos são apenas exemplos básicos, a monitoria é feita em cima de dúvidas e dos exercícios passados pelos professores.*
 
 ### Primeira fase:
 Exemplos Portugol (Visualg) - (Em construção) 
