@@ -83,47 +83,60 @@ Quanto mais longe você for na lista, mais poderá se destacar no mercado ou ter
 Lembrando que, se você aprender a base, aproveitará em todas as linguagens.  
 Aprenda as boas práticas e o resto é resto.
 
-# Estudar (construindo, botarei os links posteriormente)
+*Não se assuste com a quantidade de tópicos, todos se complementam.*  
+*Na hora de programar, todos são usados ao mesmo tempo e cada um tem o seu papel. Tente estudar por ciclos, aprenda o básico de cada um e depois vá aprofundando.*
 
-### Base
-* HTML
-* CSS
+# Estudar
+Lista abaixo conterá os links gratuítos.
+Recomendo assinar o [Alura](https://www.alura.com.br) caso queira um bom custo-benefício. Tudo que está abaixo também é encontrado lá.  
+[Promoção Alura](https://www.alura.com.br/promocao-jovemnerd)
+
+### Base / Frontend
+* Inglês
+  * Duolingo: https://www.duolingo.com/
+* Lógica de Programação
+  * CV: http://www.cursoemvideo.com/course/curso-de-algoritmos/
+* HTML e CSS
+  * CV: http://www.cursoemvideo.com/course/curso-de-html5/
 * JavaScript  (Puro e com Jquery) Extra: JSON e AJAX
 * Bootstrap
 
-### Linguagem
+### Linguagem Backend
+* PHP
+  * CV: http://www.cursoemvideo.com/course/curso-php-iniciante/
 * PHP Orientado a Objetos
-
+  * CV: http://www.cursoemvideo.com/course/curso-de-poo-php/
 ### Design Patters
 * Quanto mais melhor
 
 ### Framework
 * Laravel - PHP
 
-### Bancos:
+### Bancos
 * MySQL
+  * CV: http://www.cursoemvideo.com/course/curso-banco-dados-mysql/
 * Oracle e PostgreSQL (alternativos)
 
 ### Versionamento
 * Git e GitHub
 * SVN (alternativo)
 
-### Testes:
+### Testes
 * PHPUnit
 * Codeception
 
-### Integração Contínua:
+### Integração Contínua
 * Jenkins
 
-### Metodologias de Desenvolvimento:
+### Metodologias de Desenvolvimento
 * SCRUM / Métodos ágeis
 
-### Extras:
+### Extras
 * Composer
 * NPM / Gulp
 * SASS
 * VueJS
 
-### Extras 2, IDEs (ferramentas/editores para programar):
+### Extras 2, IDEs (ferramentas/editores para programar)
 * Atom / Sublime
 * Netbeans
