@@ -3,60 +3,68 @@
 // Exemplo de mensagens
 
 // CHAMADO DE BIBLIOTECAS -------Novo--------
-#include <stdio.h>         // Comandos de entrada (teclado) e saÌda (mensagens)
+#include <stdio.h>         // Comandos de entrada (teclado) e sa√≠da (mensagens)
+#include <stdlib.h>		   // Controle de processos, mem√≥ria, convers√µes etc
 //#include <string.h>	   // Comandos referentes ao processo de Strings
-//#include <stdlib.h>
-//#include <conio.h>	   // Comandos para manipulaÁ„o de fontes (cores etc)
+//#include <conio.h>	   // Comandos para manipula√ß√£o de fontes (cores etc)
 //#include <dos.h>
 //#include <windows.h>
-//#include <time.h>        // ManipulaÁ„o de tempo
+//#include <time.h>        // Manipula√ß√£o de tempo
 //#include <ctype.h>
-#include <locale.h>        // Escolha de regi„o (Ex: Caracteres especiais "Á")
-//#include <math.h>        // Comandos matem·ticos
-// Obs: Bibliotecas comentadas n„o est„o sendo utilizadas
+#include <locale.h>        // Escolha de regi√£o (Ex: Caracteres especiais "√ß")
+//#include <math.h>        // Comandos matem√°ticos
+// Obs: Bibliotecas comentadas n√£o est√£o sendo utilizadas
 
 /* EQUIVALENTES AO VISUALG 
 	printf (); = escreva ()
 	int = inteiro
 	float = real
-	char = caracter ˙nico
-	char [] = sequÍncia de caracteres Ex: mensagem[10] = Mensagem com 10 caracteres
-	int main (...) { = InÌcio
-	} do main = Fim da funÁ„o
+	char = caracter √∫nico
+	char [] = sequ√™ncia de caracteres Ex: mensagem[10] = Mensagem com 10 caracteres
+	int main (...) { = In√≠cio
+	} do main = Fim da fun√ß√£o
 	Adendos:
- 	Usa-se sinal = para atribuiÁ„o de valores em vari·veis
-	Utilizar ; apÛs finalizar comandos
+ 	Usa-se sinal = para atribui√ß√£o de valores em vari√°veis
+	Utilizar ; ap√≥s finalizar comandos
 */
 
-// INÕCIO da funÁ„o principal/main (cÛdigo principal) -------Novo--------
-main() { // int main(int argc, char *argv[])
+// IN√çCIO da fun√ß√£o principal/main (c√≥digo principal) -------Novo--------
+int main() { // Outra forma "int main(void)" = "<retorno> <nome>(<par√¢metros>)" Ver√° isto mais para frente em fun√ß√µes
 	
-	setlocale (LC_ALL,""); // Muda a localidade
+	setlocale (LC_ALL,""); // Muda a localidade -------Novo--------
 	/* Obs:
-		lc_all faz referÍncia ‡ todos os aspectos da localizaÁ„o.
-		"" vazia configura para localizaÁ„o atual do sistema. */
+		lc_all faz refer√™ncia √† todos os aspectos da localiza√ß√£o.
+		"" vazia configura para localiza√ß√£o atual do sistema.
+		Far√° com que mostre corretamente os acentos.
+	*/
 	
-	// DeclaraÁ„o de vari·veis -------Novo--------
-	int num1, num2; // Valores inteiro
+	// Declara√ß√£o de vari√°veis -------Novo--------
+	int num1, num2; // Valores inteiros
 	float dolar; // Valores reais	
 	char letra1 = 'A'; // Caracter
-	char mensagem1[] = "Hello World!"; // V·rios caracteres (String)
+	char mensagem1[] = "Hello World!"; // V√°rios caracteres (String)
 	// Obs: [] vazio para o compilador determinar o tamanho.
 	
-	// IniciaÁ„o/AtribuiÁ„o das vari·veis (podem ser iniciadas na declaraÁ„o) -------Novo--------
+	// Inicia√ß√£o / Atribui√ß√£o das vari√°veis (podem ser iniciadas na declara√ß√£o) -------Novo--------
 	letra1 = 'A';
 	dolar = 3.92;
 	num1 = 10;
-	// Obs: Recomenda-se sempre iniciar um valor na vari·vel antes de process·-la (pode conter lixo se vier vazia)
+	// Obs: Recomenda-se sempre iniciar um valor na vari√°vel antes de process√°-la (pode conter lixo se vier vazia)
 	
 	// Mensagens -------Novo--------
-	printf ("PROGRAMA COM EXEMPLOS B¡SICOS DE MENSAGENS !!!\n"); // Mensagem direta
+	printf ("PROGRAMA COM EXEMPLOS B√ÅSICOS DE MENSAGENS !!!\n"); // Mensagem direta
 	printf ("\n String / char:    %s / %c", mensagem1, letra1); // Ex imprimir String (2 em 1 mensagem)
-	printf ("\n N˙mero real:      %2.2f", dolar); // Exemplo imprimir n real
-	printf ("\n N˙mero inteiro:   %d", num1); // Exemplo imprimir n inteiro
+	printf ("\n N√∫mero real:      %2.2f", dolar); // Exemplo imprimir n real
+	printf ("\n N√∫mero inteiro:   %d", num1); // Exemplo imprimir n inteiro
 	printf ("\n Porcento:         %%"); // Exemplo para imprimir o simbolo %
 	printf ("\n\n");
-	// Obs: \n = Quebrar para prÛxima linha
+	/* Obs: \n = Quebrar para pr√≥xima linha
+		Note que as vari√°veis ap√≥s a virgula ser√£o jogadas onde est√° o % (string de 
 	
-	system ("pause"); // Encerra o programa (precisa para quando executado direto pelo .exe)
+	*/
+	system("pause"); // Comando para pausar e esperar uma entrada do teclado para continuar
+	// Fim do programa
 }
+
+// Leitura:
+// https://blogdecodigo.wordpress.com/2011/07/12/linguagem-c-bibliotecas-funcoes-main-printf-scanf-e-mais-drops-i/
