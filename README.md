@@ -33,8 +33,8 @@ Também ajudo por Skype/TeamViewer (marcar antes) ou direto pelo Whatsapp
 
 **Monitoria Alg 2017/2 - Grupo WhatsApp** *(para não floodar outros grupos)*  
 Acesse este link para entrar no grupo do WhatsApp
-e se apresente:
-*https://chat.whatsapp.com/7B3OcNjGGw5IWez1qZ7gkx*
+e se apresente:  
+https://chat.whatsapp.com/7B3OcNjGGw5IWez1qZ7gkx
 
 ## Materiais de Nivelamento:
 Baixe, abra, leia, analise, execute e altere da sua maneira cada programa encontrado nas pastas abaixo!
