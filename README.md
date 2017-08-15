@@ -106,6 +106,7 @@ Recomendo assinar o [Alura](https://www.alura.com.br) caso queira um bom custo-b
   * [Curso Bootstrap - Playlist](https://www.youtube.com/playlist?list=PLd4yfya-3PIomj2O-W0s9A-0i1ThWJncj)
 * JavaScript (Puro e com JQuery) Extra: JSON e AJAX
   * [-]()
+  * [JSON and AJAX Tutorial](https://www.youtube.com/watch?v=rJesac0_Ftw)
 
 ### Linguagem Backend
 * PHP
