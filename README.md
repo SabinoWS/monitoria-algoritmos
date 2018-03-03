@@ -31,7 +31,7 @@ Quem não puder ir até a Sertório ou estiver sem tempo:
 Também ajudo por Skype/TeamViewer (marcar antes) ou direto pelo Whatsapp  
 *(só mandar a dúvida/código que eu vou ajudando quando possível)*
 
-### Monitoria Alg 2017/2 - Grupo WhatsApp  
+### Monitoria Alg 2018/1 - Grupo WhatsApp  
 Acesse este link para entrar no grupo do WhatsApp
 e se apresente:  
 https://chat.whatsapp.com/77bNN6WDnKcIXAmQQ0RqQw
